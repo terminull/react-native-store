@@ -17,7 +17,7 @@
         "dataBase"
     ],
     "peerDependencies": {
-        "react-native": ">=0.5 || x-rc"
+        "react-native": ">=0.5"
     },
     "author": "thewei",
     "license": "MIT",
